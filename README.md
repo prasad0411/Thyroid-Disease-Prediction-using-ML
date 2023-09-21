@@ -1,2 +1,2 @@
 # Thyroid-Disease-Prediction-using-ML
-We have developed a system which will predict which thyroid disease the patient has 
+This repository showcases my data analysis and machine learning project, where I harnessed a diverse range of machine learning algorithms, including Linear Regression and Decision Tree regressor. These models achieved remarkable accuracies of 95% and 96%, respectively, on a clinical dataset.
