@@ -1,7 +1,2 @@
 # Thyroid-Disease-Prediction-using-ML
-This project is a testament to the power of data analysis and machine learning in healthcare. Through a rigorous exploration of clinical data, I deployed a range of machine learning algorithms such as Support Vector Machine, Logical Regression notably Linear Regression, and Decision Tree Regressor. These models delivered exceptional accuracies of 95% and 96%, respectively, underscoring their proficiency in uncovering complex patterns within the dataset. Such high accuracy is pivotal in healthcare decision-making, where precise predictions can significantly impact patient outcomes. These results lay the foundation for the application of machine learning in clinical settings, with the potential to revolutionize medical decision support and patient care. 
-
-
-
-
-
+The project achieved 97% accuracy with a Decision Tree Regressor model by utilizing GridSearchCV and sensitivity analysis for stability. For the Linear Regression model, accuracy was improved to 96% through the application of Lasso (L1 regularization), which helped with feature selection and reduced overfitting, enhancing the model's ability to generalize to new data. A continuous model retraining pipeline was developed using Python and scikit-learn, automated with cron jobs, ensuring real-time updates with minimal manual intervention. Interactive Tableau dashboards were created to visualize thyroid trends and anomalies, using correlation and regression analysis to identify key factors. This approach highlights the potential of machine learning, automation, and data visualization to provide valuable healthcare insights.
